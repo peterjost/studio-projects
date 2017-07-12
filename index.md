@@ -1,2 +1,6 @@
 # Hello my name is Peter
-## Tis is the Lede Program
+## This is the Lede Program
+
+1) yeah
+2) yeah!
+3) yeah!!!
