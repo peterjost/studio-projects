@@ -5,6 +5,6 @@ layout: project
 
 ---
 
-# This is my project about European national anthems
+# Project 1
 
-![](nationalanthem.png)
+![](national_anthem.png)
