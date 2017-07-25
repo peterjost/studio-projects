@@ -5,6 +5,5 @@ layout: project
 
 ---
 
-# Project 1
 
 ![](national_anthem.png)
