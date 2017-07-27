@@ -25,4 +25,9 @@ Draft is online (late), but only visualizations of a few countries. I completed 
 
 2017-07-25
 
-Second draft is online, looks not so bad. Looking forward to some more feedback.
+Worked on the text. Second draft is now online, looks not so bad. Looking forward to some more feedback. Website is published.
+
+2017-07-26
+
+Final version is online, final project template completed.
+First "project" done! :-)
