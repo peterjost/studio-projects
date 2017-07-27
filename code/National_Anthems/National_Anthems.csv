@@ -1,0 +1,31 @@
+country,year,topic,words,characters,most_freq_word,writer,text_sex
+Switzerland,1981,country,172,1060,homeland,Alberich Zwyssig,m
+Germany,1991,freedom,37,236,unity,August Heinrich Hoffmann,m
+Austria,1947,country,81,596,country,Paula Preradovic,w
+Liechtenstein,1963,country,47,293,high,Jakob Josef Jauch,m
+Italy,1946,unity,203,1191,Italy,Goffredo Mameli,m
+France,1795,battle,336,2253,warrior,Claude Joseph Rouget de Lisle ,m
+Belgium,1830,country,53,359,freedom,François van Campenhout ,m
+Bulgaria,1964,country,52,344,homeland,Zvetan Zvetkov Radoslavov ,m
+Denmark,1819,country,57,306,water,Adam Gottlob Oehlenschläger ,m
+Estonia,1991,country,82,440,homeland,Johann Woldemar Jannsen ,m
+Finland,1848,country,69,372,country,Johan Ludvig Runeberg,m
+Greece,1864,battle,40,245,freedom,Dionysos Solomos,m
+Ireland,1926,battle,68,387,soldiers,Patrick Heeney,m
+Croatia,1990,country,94,511,long,Antun Mihanovic,m
+Latvia,1990,country,33,190,Latvia,Karlis Baumanis,m
+Lithuania,1990,country,77,409,Lithuania,Vincas Kudirka,m
+Luxemburg,1895,country,86,466,country,Michel Lentz ,m
+Malta,1945,country,62,328,strength,Dun Karm Psaila,m
+Netherlands,1932,battle,75,414,me,Philips van Marnix ,m
+Poland,1927,battle,37,212,Poland,Jozef Wibicki,m
+Portugal,1910,battle,78,426,weapons,Henrique Lopes de Mendonca,m
+Romania,1990,battle,130,800,veins,Andrei Muresanu,m
+Sweden,1866,country,75,431,north,Richard Dybeck,m
+Slovakia,1993,battle,41,240,thunder,Janko Matuska,m
+Slovenia,1990,nation,31,171,nation,France Preseren,m
+Spain,1942,None ,0,0, ,None,none
+Czech Republic,1990,country,50,248,homeland,Josef Kajetan Typ,m
+Hungary,1990,nation,40,214,nation,Ferenc Kölcsey,m
+United Kingdom,1745,Queen,42,212,save,Henry Carey ,m
+Cyprus,1860,battle,40,245,freedom,Dionysos Solomos,m
