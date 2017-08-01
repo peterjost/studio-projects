@@ -6,4 +6,4 @@ layout: project
 ---
 
 
-![](death_mountains.png)
+![](death_mountain.png)
