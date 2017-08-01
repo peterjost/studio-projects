@@ -6,4 +6,4 @@ layout: project
 ---
 
 
-![](national_anthem.png)
+![](death_mountains.png)
