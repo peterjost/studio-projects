@@ -30,3 +30,23 @@ Almost finished the text. Worked on the graphs, changed them into some more moun
 2017-08-01
 
 Finished the text, combined it with the graphs to an article (Illustrator work). Uploaded the .png-file to the personal website.
+
+2017-08-02
+
+Get Feedback from Sarah:
+
+sarahslo commented 18 hours ago
+Peter, so, I don't think the number of deaths is quite constant as you state. It looks like in 2011 there were over 100 deaths in in 2012 only about 60. That is a big difference. That is all your classmates and each of their significant others.
+
+What I do see here that the number of deaths is more a reflection of the number of people who do a certain sport than is is the chances that you are going to die doing that sport. You have not normalized these data.
+
+If I look at this it looks like climbing and canyoning are safe sports. But if you take the total number of climbers deaths each year and divide them by the total number of climbers what percentage do you get? If there are 1,000 hikers and 300 die, that is 30% of all hikers. But if there are 100 climbers and 50 die -- that's 50%. So a smaller number may die by climbing, but it's a riskier sport.
+
+The age group chart in your first draft is charted properly. We should not use fever lines for this, because that implies there is a connection between the datapoints that there is not. What is interesting there is you see 70 yr olds are more likely to die by hiking but people in their 20s die by climbing the most of all ages. I'd want to find out how many people of each age do each sport and how likely they are to die from it, and what are those relationships.
+
+This is an excellent dataset and a good start. You have, however, just scraped the surface. It's plotted very clearly and I like that you show us different things. But remember to look for what is really different in the dataset.
+
+Nice work.
+
+2017-08-03
+Uploaded final version. Second project done! :-)
